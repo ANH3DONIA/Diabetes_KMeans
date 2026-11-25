@@ -1,0 +1,4 @@
+Configuración,K,Escalamiento,Inercia (WCSS),Silhouette Score,Davies-Bouldin,Tamaño mín. / máx. clúster
+Config. A (Final): K=4 + StandardScaler,4,Sí (StandardScaler),4941.87,0.2481,1.329,100 / 719
+Config. B (Alternativa): K=3 + StandardScaler,3,Sí (StandardScaler),5993.67,0.2676,1.4865,105 / 1113
+Control: K=4 SIN escalamiento,4,No,5436718.84,0.159,1.786,63 / 1245

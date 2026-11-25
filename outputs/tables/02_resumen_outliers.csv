@@ -1,0 +1,6 @@
+Variable,Min Original,Max Original,Atípicos (IQR),Límite P1,Límite P99
+edad,20.0,82.0,1,20.0,60.0
+imc,12.45,65.55,51,17.53,48.27
+glu_suero,47.0,1116.0,190,60.0,317.0
+insulina,0.2,395.0,142,1.5,69.0
+trig,24.0,2834.0,96,39.24,689.76

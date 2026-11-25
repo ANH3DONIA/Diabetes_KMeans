@@ -1,0 +1,5 @@
+Clúster,Perfil,edad,imc,glu_suero,insulina,trig,Registros,Porcentaje (%)
+0,Adultos Jóvenes con Perfil Saludable,30.18,27.21,84.41,8.27,117.99,719,39.4
+1,Adultos Mayores en Control Estable,50.27,29.36,94.61,8.81,146.77,673,36.88
+2,Obesidad con Resistencia a la Insulina,38.99,36.34,104.13,28.52,209.83,333,18.25
+3,Hiperglucemia Severa y Dislipidemia,47.89,30.25,258.74,11.4,250.41,100,5.48

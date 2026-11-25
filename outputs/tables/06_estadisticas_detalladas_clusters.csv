@@ -1,0 +1,7 @@
+,,edad,edad,edad,edad,edad,imc,imc,imc,imc,imc,glu_suero,glu_suero,glu_suero,glu_suero,glu_suero,insulina,insulina,insulina,insulina,insulina,trig,trig,trig,trig,trig
+,,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max
+cluster,perfil_cluster,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Adultos Jóvenes con Perfil Saludable,30.18,30.0,6.0,20.0,45.0,27.21,27.1,4.57,17.53,40.97,84.41,85.0,10.37,60.0,138.0,8.27,7.2,4.94,1.5,34.0,117.99,99.0,69.24,39.24,505.0
+1,Adultos Mayores en Control Estable,50.27,50.0,5.87,37.0,60.0,29.36,28.95,4.73,17.53,45.73,94.61,92.0,18.14,60.0,185.0,8.81,7.7,4.91,1.5,29.7,146.77,130.0,77.04,39.24,689.76
+2,Obesidad con Resistencia a la Insulina,38.99,39.0,9.82,20.0,60.0,36.34,36.08,6.04,20.43,48.27,104.13,98.0,25.2,60.0,238.0,28.52,23.5,16.57,1.5,69.0,209.83,160.0,148.38,40.0,689.76
+3,Hiperglucemia Severa y Dislipidemia,47.89,49.0,8.57,26.0,60.0,30.25,29.48,6.2,17.53,46.01,258.74,267.0,47.82,162.0,317.0,11.4,8.3,11.04,1.5,69.0,250.41,207.5,157.46,72.0,689.76

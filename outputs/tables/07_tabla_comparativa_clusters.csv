@@ -1,0 +1,5 @@
+cluster,perfil_cluster,Pacientes,Edad_media,IMC_medio,Glucosa_media,Insulina_media,Trigliceridos_medio,Pct_Mujeres,Pct_Glucosa_Diabetes,Pct_Total
+0,Adultos Jóvenes con Perfil Saludable,719,30.18,27.21,84.41,8.27,117.99,64.67,0.14,39.4
+1,Adultos Mayores en Control Estable,673,50.27,29.36,94.61,8.81,146.77,57.95,6.24,36.88
+2,Obesidad con Resistencia a la Insulina,333,38.99,36.34,104.13,28.52,209.83,62.16,14.71,18.25
+3,Hiperglucemia Severa y Dislipidemia,100,47.89,30.25,258.74,11.4,250.41,70.0,100.0,5.48
